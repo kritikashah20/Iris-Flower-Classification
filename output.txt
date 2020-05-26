@@ -1,0 +1,7 @@
+
+Accuracy =  100.0 %
+
+ The Confusion Matrix:
+[[11  0  0]
+ [ 0 13  0]
+ [ 0  0  6]]
